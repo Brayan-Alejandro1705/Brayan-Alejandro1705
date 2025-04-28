@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Brayan-Alejandro1705/Brayan-Alejandro1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a student at SENA in software analysis and development.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm brayan Alejandro! 👋
+
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, Pytho, java, Javascript, CSS, c++, c#
+
+
+
+## Other Common Github Profile Sections
+👩‍💻 currently working as a cook
+
+🧠 I am currently learning web development
+
+👯‍♀️ I am looking to collaborate in the area of ​​software development
+
+💬 Ask me about on software development
+
+📫 You can reach me through this medium or through my social networks.
+
+
+
